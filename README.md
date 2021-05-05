@@ -3,7 +3,7 @@ catto is a multi-functional discord bot
 
 # commands
 
-c.info - the help command
+c.help - the help command
 
 c.ping - to test if the bot is fast enough
 
