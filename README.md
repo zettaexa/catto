@@ -9,6 +9,8 @@ c.ping - to test if the bot is fast enough
 
 c.8ball - lets find out if catto disagrees or not
 
+c.ok - test command 
+
 
 
 c.kiss (mention) - you kiss someone
@@ -24,6 +26,9 @@ c.dog - gives you a dog
 c.bunny - funy buny
 
 c.koala - gives you a koala
+
+c.capybara - wheres my capybara
+
 
 
 c.burger - ymuy bruger
