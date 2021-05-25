@@ -1,6 +1,8 @@
 # catto
 catto is a multi-functional discord bot
 
+(limited commands + if your bot doesnt work just add your token in the .env file)
+
 # commands
 
 c.help - the help command
