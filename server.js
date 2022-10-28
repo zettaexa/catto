@@ -79,7 +79,7 @@ message.channel.send(image)
 
 if(message.content === "c.pizza") {
 message.channel.send("enjoy your meal :)")
-let image = new Discord.MessageAttachment("https://tummytrip.com/wp-content/uploads/2019/12/Cheese-Pizza-500x375.jpg")
+let image = new Discord.MessageAttachment("https://cdn.discordapp.com/attachments/1035418304791183430/1035420246976237568/unknown.png")
 message.channel.send(image)
 }
 
